@@ -1,0 +1,101 @@
+#two{
+    background-color:black;
+    width:100%;
+    overflow:hidden;
+   }
+   
+    #one{
+ 
+    background-image:url("https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&w=600");
+    width:100%;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+    }
+
+    *{
+        margin:0;
+    }
+
+
+#three{
+    color:WHITE;
+    float:left;
+    font-size:30px;
+    font-weight:bold;
+    margin:12px;
+    padding:25px;
+   
+}
+#four{
+   
+    float:right;
+    margin:40px 40px 40px 40px;
+    border-radius:5px;
+
+}
+button{
+    padding:10px;
+    border-radius:7px;
+    font-size:10px;
+    font-weight: bold;
+    border:2px solid black;
+}
+button:hover{
+    font-size:25px;
+
+}
+#five{
+    font-size: 40px;
+    font-weight: 35px;
+    text-align:center;
+    color:black;
+    padding-top: 15px;
+    font-style: italic;
+}
+#six{
+    font-size: 20px;
+    font-weight: 15px;
+    text-align:center;
+    color:black;
+    padding-top: 7px;
+    justify-content:center;
+    font-style: italic;
+
+}
+#seven{
+    text-align:center;
+    padding:15px;
+
+}
+input[type="text"]{
+    width:40%;
+    height:20px;
+    border-radius:20px;
+    border:none;
+    font-size:20px;
+   
+}
+#eight,#nine{
+    
+    font-style: italic;
+    background-color: gray;
+    font-size: 20px;
+    font-weight: 20px;
+    padding:10px;
+    margin:60px;
+    border-radius:10px;
+
+    }
+#nine:hover{
+        padding:15px;
+    }
+    #eight:hover{
+        padding:15px;
+    }
+
+#tenth{
+    display:flex;
+    justify-content: space-between;
+    
+}
